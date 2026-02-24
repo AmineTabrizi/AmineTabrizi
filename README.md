@@ -47,8 +47,22 @@ Git, Docker, Linux
 
 ## 📫 Contact Me
 
-📧 Email: [amintabrizi86@gmail.com](mailto:amintabrizi86@gmail.com)  
-💼 LinkedIn: [amin-tabrizi](https://linkedin.com/in/amin-tabrizi/)  
-📨 Telegram: [@ImAmine](https://t.me/ImAmine)
+
+<a href="mailto:amintabrizi86@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" />
+</a>
+
+<a href="https://t.me/ImAmine">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="30" />
+</a>
+
+<a href="https://linkedin.com/in/amin-tabrizi">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+</a>
 
 ---
+
+## ♟ Beyond Code
+
+I play chess in my free time — I enjoy thinking a few moves ahead.
+<a href="https://www.chess.com/member/Amintabrizii"> Chess.com Profile</a>

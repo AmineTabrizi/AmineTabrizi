@@ -47,22 +47,41 @@ Git, Docker, Linux
 
 ## 📫 Contact Me
 
+## 📫 Connect With Me
+
+<p align="left">
 
 <a href="mailto:amintabrizi86@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="32" height="32"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://t.me/ImAmine">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="30" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
+       width="32" 
+       height="32" 
+       alt="Telegram"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://linkedin.com/in/amin-tabrizi">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="32" height="32"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.chess.com/member/yourusername">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/chessdotcom.svg" width="32" height="32"/>
+</a>
+
+</p>
 
 ---
 
 ## ♟ Beyond Code
 
-I play chess in my free time — I enjoy thinking a few moves ahead.
+I play chess in my free time — I enjoy thinking a few moves ahead. 
+&nbsp;&nbsp;
 <a href="https://www.chess.com/member/Amintabrizii"> Chess.com Profile</a>

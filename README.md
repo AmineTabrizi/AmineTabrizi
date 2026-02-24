@@ -47,33 +47,20 @@ Git, Docker, Linux
 
 ## 📫 Contact Me
 
-## 📫 Connect With Me
-
 <p align="left">
 
 <a href="mailto:amintabrizi86@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="32" height="32"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
+       width="32"
+       height="32"
+       alt="Gmail"
+       style="vertical-align: middle;" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/ImAmine">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
-       width="32" 
-       height="32" 
-       alt="Telegram"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/amin-tabrizi">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="32" height="32"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.chess.com/member/yourusername">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/chessdotcom.svg" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
 </a>
 
 </p>
